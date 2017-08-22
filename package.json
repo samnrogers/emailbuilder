@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/samnrogers/emailbuilder/issues"
   },
-  "homepage": "https://github.com/samnrogers/emailbuilder#readme"
+  "homepage": "https://github.com/samnrogers/emailbuilder#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
