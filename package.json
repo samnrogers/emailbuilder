@@ -1,0 +1,24 @@
+{
+  "name": "emailbuilder",
+  "version": "1.0.0",
+  "description": "A Simple Drag & Drop Editor to create Basic Responsive Email Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samnrogers/emailbuilder.git"
+  },
+  "keywords": [
+    "Email",
+    "Responsive",
+    "Template"
+  ],
+  "author": "Sam Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samnrogers/emailbuilder/issues"
+  },
+  "homepage": "https://github.com/samnrogers/emailbuilder#readme"
+}
